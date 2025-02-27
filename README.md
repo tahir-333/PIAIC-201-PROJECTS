@@ -88,7 +88,9 @@ These four concepts work together to form a modern, efficient pipeline for build
 - **Embeddings** transform textual data into a format that enables effective similarity searches.  
 - **Pinecone** stores these embeddings and facilitates fast, scalable retrieval of relevant information.
 
-
+---
+---
+---
 
 
 
