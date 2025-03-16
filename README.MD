@@ -266,6 +266,7 @@ By following this explanation, you should gain a clear understanding of how each
 
 
 # DEEPSEEK CODE ELABORATION 
+---
 
 Okay, let's see. The user provided their project code and wants an explanation of each part, especially since they're a beginner. I need to break down the code step by step in simple terms.
 
